@@ -1,0 +1,28 @@
+@charset "UTF 8";
+div{
+    background-color: rgb(197, 193, 192);
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    border: 5px solid rgb(165, 45, 181);
+    text-align: center;
+    display: inline-block;
+    
+    
+}
+div#d1:hover{
+    background-color:rgb(53, 144, 109) ;
+
+}
+div#d2:hover{
+    background-color:rgb(144, 53, 53) ;
+
+}
+div#d3{
+    background-color:rgb(144, 53, 118) ;
+
+}
+
+
+
+

@@ -1,0 +1,20 @@
+@charset "UTF 8";
+body{
+    width: 500px;
+    margin: auto;
+
+
+
+}
+div#d1:hover{
+    color: aqua;
+    
+    
+
+}
+div#d1 > p{
+    display: none;
+}
+div#d1:hover >p{
+    display: block;
+}

@@ -1,0 +1,22 @@
+@charset "UTF-8";
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    margin: auto;
+    padding: 20px;
+    width: 900px;
+    background-image: linear-gradient(to right,#A6A6A6,#D9D9D9,#A6A6A6);
+    color: rgb(176, 78, 21);
+
+
+}
+h1{
+     font-size: 50px;
+}
+
+p{
+    font-size: 25px;
+}
+li{
+    font-size: 40px;
+}

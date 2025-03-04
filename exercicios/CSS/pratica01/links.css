@@ -1,0 +1,39 @@
+@charset "UTF 8";
+body{
+    width: 500px;
+    margin: auto;
+}
+
+p{
+    text-align: justify;
+}
+.negri{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+    text-align: justify;
+}
+iframe{
+    border: 5px solid green;
+    width: 350px;
+}
+#d1,#d2{
+    border: 10px solid green;
+    width: 300px;
+    height: 300px;
+}
+
+ 
+#d1:hover>a{
+    background-color: rgb(3, 255, 99);
+
+}
+#d1:active>a{
+    background-color: aqua;
+}
+
+
+
+
+
+
+    

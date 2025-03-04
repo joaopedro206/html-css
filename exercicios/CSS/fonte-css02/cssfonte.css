@@ -1,0 +1,28 @@
+@charset "UTF 8";
+@font-face {
+    font-family: 'medieval';
+    src: url('Olondona.otf') format('opentype') ;
+  
+
+}
+
+
+body{
+    width: 800px;
+    margin: auto;
+    padding: 30px;
+    
+
+    font-size: 2em;
+
+
+    
+  
+
+}
+h1{
+    font-family: 'medieval', Helvetica, sans-serif;
+}
+p{
+    font-family: 'medieval', Helvetica, sans-serif;
+}

@@ -1,0 +1,17 @@
+@charset "UTF 8";
+body{
+    width: 800px;
+    margin: auto;
+    font-weight: 900;
+    font-style: italic;
+    text-decoration: underline;
+    font: italic 900 1em sans-serif ;
+    
+
+    
+}
+    img{
+        width: 400px;
+        height: 600px;
+        margin: auto;
+    }
